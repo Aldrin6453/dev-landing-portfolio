@@ -1,9 +1,2 @@
 # dev-landing-portfolio
-# dev-landing-portfolio
-# dev-landing-portfolio
-# dev-landing-portfolio
-# dev-landing-portfolio
-# dev-landing-portfolio
-# dev-landing-portfolio
-# dev-landing-portfolio
-# dev-landing-portfolio
+https://dev-landing-portfolio.vercel.app/
